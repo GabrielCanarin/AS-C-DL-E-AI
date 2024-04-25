@@ -1,5 +1,12 @@
 # Criar um ambiente PySpark e Jupyter Labs (pip, poetry, etc), implementando Delta Lake e
 <p>Utilizaremos o Jupyter Lab para fazer as execuções</p>
+<p>Ferramentas Utilizadas</p>
+
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/6036cad4-513d-40d7-8aaa-21889b220252)
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/4ad5f35a-8f63-4a3a-9203-2421f4554314)
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/343ef3b0-3123-479c-a409-d5b9255b5a19)</p>
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/c97a5054-5109-4ab1-83ea-835835d1f195)
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/474ee0dd-f49c-4303-b752-382820d0a4b9)
 
 ## Integrantes
 <p>ARTHUR DE LUCA HONORATO</p>
