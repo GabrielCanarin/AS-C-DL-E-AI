@@ -21,7 +21,7 @@
 <p>cd pyspark-delta</p>
 
 ## Iniciar um ambiente em poetry
-<p>poetri init</p>
+<p>poetry init</p>
 
 ## Intalar o pyspark, deltaspark e o jupyterlab
 <p>poetry add pyspark==3.4.2 delta-spark==2.4.0 jupyterlab</p>
