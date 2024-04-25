@@ -1,14 +1,29 @@
 # Criar um ambiente PySpark e Jupyter Labs (pip, poetry, etc), implementando Delta Lake e
-<p>Utilizaremos o Google Colab para fazer as execuções</p>
+<p>Utilizaremos o Jupyter Lab para fazer as execuções</p>
 
-## Baixando as dependencias
-<p>Configurando os ambientes 
-!pip install pyspark
-!pip install jupyterlab
-!pip install delta-spark
-!pip install wget</p>
+## Integrantes
+<p>ARTHUR DE LUCA HONORATO</p>
+<p>GABRIEL CANARIN SALAZAR</p>
+<p>JOÃO EDUARDO MILAK FARIAS</p>
+<p>NAUM MARCIRIO</p>
 
-## Configurando o Apache Iceberg
-<P>!pip install wget
-!wget https://repo1.maven.org/maven2/org/apache/iceberg/iceberg-spark3-runtime/0.12.0/iceberg-spark3-runtime-0.12.0.jar
-!mv iceberg-spark3-runtime-0.12.0.jar /usr/local/lib/</P>
+## Criar uma pasta
+<p>mkdir pyspar-delta</p>
+
+## Entrar no caminho da pasta
+<p>cd pyspark-delta</p>
+
+## Iniciar um ambiente em poetry
+<p>poetri init</p>
+
+## Intalar o pyspark, deltaspark e o jupyterlab
+<p>poetry add pyspark==3.4.2 delta-spark==2.4.0 jupyterlab</p>
+
+## Entrar dentro do ambiente criado
+<p>poetry shell</p>
+
+## Iniciar o ambiente jupyter para desenvolver
+<p>jupyter-lab</p>
+
+## Configurando
+
