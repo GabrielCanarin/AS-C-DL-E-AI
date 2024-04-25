@@ -65,5 +65,9 @@
 ![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/2b0b3a64-5f88-49c8-8b5d-444b3dfaa2e9)
 ![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/96042ee4-6ae5-4157-9950-5f65f6970285)
 
+## Deletar algum valor da tabela
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/bfdcf6b7-6c9c-4be4-bbb1-a3eb5385aa25)
+![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/a6e26666-0809-4868-9b42-f776f51448fb)
+
 
 
