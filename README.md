@@ -69,5 +69,5 @@
 ![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/bfdcf6b7-6c9c-4be4-bbb1-a3eb5385aa25)
 ![image](https://github.com/GabrielCanarin/AS-C-DL-E-AI/assets/126838860/a6e26666-0809-4868-9b42-f776f51448fb)
 
-
-
+<p>Essas aplicações e caminhos para se seguir foram desenvolvidas com o estudo do video do canal DataWayBR</p>
+<p>Segue o link para o estudo do mesmo https://www.youtube.com/watch?v=eOrWEsZIfKU</p>
